@@ -2,7 +2,7 @@
 
 # Variables
 JENKINS_HOME=/var/lib/jenkins
-BACKUP_DIR=/home/knoldus/jenkins_backup
+BACKUP_DIR=/path/to/dir
 DATE=$(date +%Y%m%d)
 BACKUP_FILE="jenkins_backup_${DATE}.tar.gz"
 
